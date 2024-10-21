@@ -6,7 +6,7 @@
 }
 body{
    width: 100%;
-   /* background-image: url(../img/bbbackk.jpg);
+   /* background-image: url(../images/bbbackk.jpg);
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
@@ -16,7 +16,7 @@ body{
     letter-spacing: 2.5px;
     width: 100%;
     height: 100vh;
-    background-image: url(../img/reeeed.jpg);
+    background-image: url(../images/reeeed.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -381,7 +381,7 @@ margin: auto;
     width:32%;
     z-index: 50;
     height: 250px;
-    background-image: url(../img/4e4367ef9cea1b7783ed0d83bc54dd76.jpg);
+    background-image: url(../images/4e4367ef9cea1b7783ed0d83bc54dd76.jpg);
     background-position: center ;
     background-size: cover;
     background-repeat: no-repeat;
@@ -440,7 +440,7 @@ position: absolute;
     width:32%;
     z-index: 50;
     height: 250px;
-    background-image: url(../img/2.jpg);
+    background-image: url(../images/2.jpg);
     background-position: center ;
     background-size: cover;
     background-repeat: no-repeat;
@@ -560,7 +560,7 @@ background-color:rgba(236, 236, 241, 0.918);
 .motorcycle-box1{
     display: flex;
     margin:auto ;
-    background-image: url(../img/motor1.png);
+    background-image: url(../images/motor1.png);
     width: 350px;
     height: 250px;
     background-position: center;
@@ -673,7 +673,7 @@ padding-top: 90px;
 .motorcycle-box2{
     display: flex;
     margin:auto;
-    background-image: url(../img/motor2.webp);
+    background-image: url(../images/motor2.webp);
     width: 350px;
     height: 250px;
     background-position: center;
@@ -684,7 +684,7 @@ padding-top: 90px;
 .motorcycle-box3{
     display: flex;
     margin:auto ;
-    background-image: url(../img/motor3.png);
+    background-image: url(../images/motor3.png);
     width: 350px;
     height: 250px;
     background-position: center;
@@ -695,7 +695,7 @@ padding-top: 90px;
 .motorcycle-box4{
     display: flex;
     margin:auto ;
-    background-image: url(../img/motor4.png);
+    background-image: url(../images/motor4.png);
     width: 350px;
     height: 250px;
     background-position: center;
@@ -706,7 +706,7 @@ padding-top: 90px;
 .motorcycle-box5{
     display: flex;
     margin:auto ;
-    background-image: url(../img/motor3.png);
+    background-image: url(../images/motor3.png);
     width: 350px;
     height: 250px;
     background-position: center;
@@ -717,7 +717,7 @@ padding-top: 90px;
 .motorcycle-box6{
     display: flex;
     margin:auto ;
-    background-image: url(../img/motor1.png);
+    background-image: url(../images/motor1.png);
     width: 350px;
     height: 250px;
     background-position: center;
@@ -959,7 +959,7 @@ margin-left: 470px;
         width: 100%;
         height: 60vh;
         margin: auto auto;
-        background-image: url(../img/imggg.jpg);
+        background-image: url(../images/imggg.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -1069,7 +1069,7 @@ font-size: 40px;
         width: 300px;
         height: 350px;
         display: flex;
-        background-image: url(../img/red.jpg);
+        background-image: url(../images/red.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -1099,7 +1099,7 @@ font-size: 40px;
         width: 300px;
         height: 350px;
         display: flex;
-        background-image: url(../img/reeeed.jpg);
+        background-image: url(../images/reeeed.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -1125,7 +1125,7 @@ font-size: 40px;
         width: 300px;
         height: 350px;
         display: flex;
-        background-image: url(../img/red\ ba.jpg);
+        background-image: url(../images/red\ ba.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -1195,7 +1195,7 @@ font-size: 40px;
     .sec8{
         width: 100%;
         height:60vh;
-        background-image: url(../img/sssssssssssssssssssssss.jpg);
+        background-image: url(../images/sssssssssssssssssssssss.jpg);
         background-position:center;
         background-repeat: no-repeat;
         background-size: cover; 
@@ -1219,7 +1219,7 @@ font-size: 40px;
         margin-top: 110px;
         width: 100px;
         height: 100px;
-        background-image: url(../img/backl.jpg);
+        background-image: url(../images/backl.jpg);
         background-size: cover;
     }
     .cont1{
@@ -1254,7 +1254,7 @@ font-size: 40px;
     margin-top:110px;
     width: 100px;
     height: 100px;
-    background-image: url(../img/red\ ba.jpg);
+    background-image: url(../images/red\ ba.jpg);
     background-size: cover;
 }
 .cont2{
